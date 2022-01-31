@@ -1,0 +1,37 @@
+label {
+    display: block;
+    color: white;
+    margin: 6px 0px;
+}
+
+button {
+    display: block;
+}
+
+input {
+    font-weight: bold;
+    width: 210px;
+    height: 35px;
+    padding: 6px 15px;
+    border-radius: 5px;
+    outline: none;
+    border: none;
+    background: #F6F7F9;
+    color: #010101;
+    font-size: 14px;
+}
+
+.form_group {
+    margin: 5% 6%;
+}
+
+button {
+    background: #FF1F57;
+    text-align: center;
+    margin: 15px;
+   
+}
+
+.inputs{
+    /* contoh gan cara pemanggilan class css berbarengan dengan parent */
+}
